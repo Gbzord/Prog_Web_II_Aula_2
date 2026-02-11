@@ -1,19 +1,6 @@
 # 🏆 API REST - Seleções da Copa do Mundo
 
-API RESTful desenvolvida com **Node.js** e **Express.js** para gerenciar informações sobre seleções de futebol da Copa do Mundo.
-
-## 📋 Índice
-
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Funcionalidades](#funcionalidades)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Endpoints da API](#endpoints-da-api)
-- [Exemplos de Requisições](#exemplos-de-requisições)
-
----
+API RESTful desenvolvida com **Node.js** e **Express.js** para gerenciar informações sobre seleções de futebol.
 
 ## 🎯 Sobre o Projeto
 
@@ -105,8 +92,6 @@ Você pode testar os endpoints usando:
 - **Navegador** (para requisições GET)
 - **[Postman](https://www.postman.com/)**
 - **[Insomnia](https://insomnia.rest/)**
-- **cURL** (linha de comando)
-- **Thunder Client** (extensão do VS Code)
 
 ---
 
@@ -222,20 +207,7 @@ Permite que a aplicação receba e processe dados JSON no corpo das requisiçõe
 - Utiliza o método `findIndex()`
 - Usado para operações de deleção
 
----
-
-## 🎓 Conceitos Aplicados
-
-- **API REST** - Arquitetura de serviços web
-- **CRUD** - Create, Read, Update, Delete
-- **HTTP Methods** - GET, POST, DELETE
-- **Status Codes** - 200 (OK), 201 (Created)
-- **Route Parameters** - `:id` para rotas dinâmicas
-- **Middleware** - Funções intermediárias no Express
-- **ES Modules** - `import`/`export` moderno
-- **Separação de responsabilidades** - `server.js` vs `app.js`
-
----
+--
 
 ## 📦 Scripts Disponíveis
 
@@ -250,29 +222,12 @@ Permite que a aplicação receba e processe dados JSON no corpo das requisiçõe
 
 ---
 
-## 🔮 Melhorias Futuras
 
-- [ ] Implementar método PUT para atualizar seleções
-- [ ] Conectar a um banco de dados (MongoDB, PostgreSQL)
-- [ ] Adicionar validação de dados com Joi ou Yup
-- [ ] Implementar tratamento de erros
-- [ ] Adicionar testes automatizados (Jest, Mocha)
-- [ ] Documentação com Swagger/OpenAPI
-- [ ] Autenticação e autorização (JWT)
-- [ ] Paginação para listagem de seleções
-- [ ] Filtros e busca avançada
+## 👨‍💻 Autor 
 
----
+Nome: Gabriel Christino
 
-## 📄 Licença
-
-Este projeto está sob a licença **ISC**.
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido como projeto educacional para aprendizado de APIs REST com Node.js e Express.
+Desenvolvido na Disciplina de Prog Web II utilizando  APIs REST com Node.js e Express.
 
 ---
 
@@ -294,4 +249,5 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma i
 
 ---
 
-⭐ **Se este projeto foi útil para você, considere dar uma estrela no repositório!**
+⭐ ⭐⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ 
+
